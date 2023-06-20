@@ -1,0 +1,58 @@
+=Chapter 1
+-By law P medicines can only be sold:
++When a counter assistant is present
+_When a pharmacist is present
++When a dispenser is present
+-Which one of the following is a GSL medicine?
++32 paracetamol 500mg tablets
++30 loperamide capsules
+_16 aspirin 300mg tablets
+-How long is prescription for a Controlled Drug valid for?
++Six months from the date the doctor signed the prescription
+_28 days from the date on the prescription
++28 days from the date the patient handed in the prescription to the pharmacy
+-Which of the following is an example of an active ingredient?
+_Paracetamol
++Effervescent agent
++Bulking agent
+-Which one of the following statements regarding standard operating procedures (SOPs) is TRUE?
+_Every step in the dispensing process should have a SOP
++SOPs outline the active ingredients in a tablet
++SOPs are confidential and should not be accessed by pharmacy staff
+-Which one of the following tasks can you NOT do in the two hour absence of the Responsible Pharmacist (RP)?
++Sell GSL medicines over the counter
+_Hand out dispensed medicines that have been pre-checked and bagged
++Take in prescriptions
+-A pregnant woman asks to buy some iron tablets. You should:
++Sell them to her since pregnant women are often low in iron
++Refer her to her doctor as she will need a blood test
+_Find out if she has taken them before then refer her to the pharmacist
+-Which one of the following customers has symptoms that should be referred to the pharmacist?
++A 10 year old child who has a chesty cough that started yesterday
++A 12 year old child who has had head lice for the last five days
+_A 14 year old child who has felt dizzy for the last two hours with a headache
+-What should you do when someone comes in and asks for co-codamol tablets?
++Sell them to the customer without question
+_Refer them to the pharmacist immediately
++Ask them whether they have had them before, who is going to use them, and whether they take any other medication
+-A woman comes in and requests information on her husband's medication. You...
++access the husband's PMR and tell his wife the medication he is taking
++ask the lady to confirm the address and then tell her the medication he is taking
+_refer the lady to your pharmacist
+=Chapter 2
+-If a patient returns some unwanted Controlled Drugs to your pharmacy, you should...
+_highligh this to the pharmacist immediately
++dispose of them in the dustbin
++dispose of them in the special waste containers
+-Which of the following colours indicates that the fire extinguisher is suitable for an ordinary fire involving paper?
++Black
+_Red
++Blue
+-What should you NOT do if you have a request for an item that is currently out of stock?
++Check the stock room thoroughly to confirm the item is not in stock
+_Leave the customer's details clearly visible within the pharmacy so staff can easily access them
++Check how long it will take for the item to get delivered
+-Which of the following can be included as part of a risk managemment programme in relation to clinical governance?
++Undertaking a patient satisfaction survey anually
+_Appropriate waste disposal arrangements
++Undertaking a clinical audit programme
