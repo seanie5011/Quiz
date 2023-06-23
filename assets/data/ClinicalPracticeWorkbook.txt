@@ -41,7 +41,7 @@ _Refer them to the pharmacist immediately
 _refer the lady to your pharmacist
 =Chapter 2
 -If a patient returns some unwanted Controlled Drugs to your pharmacy, you should...
-_highligh this to the pharmacist immediately
+_highlight this to the pharmacist immediately
 +dispose of them in the dustbin
 +dispose of them in the special waste containers
 -Which of the following colours indicates that the fire extinguisher is suitable for an ordinary fire involving paper?
@@ -56,3 +56,355 @@ _Leave the customer's details clearly visible within the pharmacy so staff can e
 +Undertaking a patient satisfaction survey anually
 _Appropriate waste disposal arrangements
 +Undertaking a clinical audit programme
+-COSHH regulations cover:
++First aid regulations
++Lead, asbestos and radioactive substances
+_Chemicals, fumes, dusts and vapours
+-Which of the following regarding teamwork is correct?
++Successful teams are made up of the same types of people
++A team member should only do the tasks assigned to them and not help others
+_Team members should listen to each other
+-Signposting involves...
+_directing people to other health services when you are not able to help them in the pharmacy
++putting up signs outside your pharmacy
++posting people information about other health services
+-Which of the following statements regarding safeguarding is TRUE?
++You should keep your concerns to yourself and not tell anybody in the pharmacy
++Signs of abuse can always be seen visually
+_There may be a rational explanation behind signs of abuse
+-Promotion of healthy living does NOT cover...
++providing advice on healthier lifestyles and public health issues to patients receiving dispensed medicines
+_offering the minor ailment scheme to eligible patients
++involvement in national and local public health campaigns
+-In which country do they provide a chronic medication service as part of the community pharmacy contract?
+_Scotland
++Northern Ireland
++England
+=Chapter 3
+-Which of the following should be treated with an analgesic?
++Heartburn
++Constipation
+_Tension Headache
+-Which one of the following regarding aspirin is TRUE?
++Can be used in children over three months
++Should be used in conjunction with other NSAIDs
+_Makes the platelets less likely to clot
+-Which of the following is TRUE about paracetamol?
++It is the best anit-inflammatory
+_It is effective at reducing fever
++It causes Reye's syndrome
+-Which one of the following would you recommend for period pain?
+_Ibuprofen
++Paracetamol
++Codeine
+-Which of the following is TRUE about ibuprofen?
++It is related to paracetamol
+_It can be taken by children over three months old
++It should be taken before food or on an empty stomach
+-A combination analgesic containing codeine and paracetamol can be sold to...
++A woman with a mild cold
+_A man with a toothache causing moderate pain
++A teenage girl with period pain who has not tried anything else yet
+-Which of the following customers would you refer to the pharmacist?
+_A child aged three with a bruised face
++A lady with backache after her new exercise class
++A man with sore legs after a sponsored walk
+-Which of the following is FALSE about topical analgesics?
++They are applied directly to the skin for a local effect
++They are less likely to cause side effects than oral analgesics
+_They can be used safely in children
+-Which of the following is TRUE about heat treatments?
++They reduce bleeding and prevent bruising
+_They increase blood flow to the area and relax the muscles
++They should be used as soon as possible to numb the area
+-MUSCLE-EZE muscle rub (fictitious) contains menthol and camphor. Which one of the following is TRUE?
+_It contains counter irritants
++It will reduce bruising
++It will reduce a high temperature
+=Chapter 4
+-Which of the following best completes the sentence? The common cold is best treated...
++By drinking alcohol to get rid of the virus
+_By drinking plenty of fluids and having plenty of rest
++By taking a supplement of vitamin D for a short period of time
+-Flu differs from colds in which one of the following ways?
++Colds tend to last longer
++Flu only affects older people
+_Flu can leave the person feeling run down for some time afterwards
+-For which of the following causes of cough can you recommend an OTC product?
++A bacterial chest infection
+_The common cold
++People with asthma
+-Cough product A contains: Guaifenesin, Pseudophedrine, Honey+Lemon. B contains: Dextromethorphan, Pseudophedrine, Chlorphenamine. Which is TRUE?
++Both products contain soothing ingredients
++Product A contains an expectorant and a suppressant
+_Product B is more likely to cause drowsiness than Product A
+-Which of the following customers DO NOT need to be referred to the pharmacist?
++My two year old son has had a dry cough that comes mainly at night for the last three weeks
+_I've had a chesty cough for the last week or so and sometimes I cough up colourless phlegm
++I've noticed in the last few weeks that when I lie down my chest becomes painful and I am also wheezing quite a bit
+-Hay fever is caused by an allergy to which one of the following:
++Dust
+_Pollen
++Histamine
+-Which one of the following cough ingredients is most suitable for a five year old child with a dry cough?
+_Pediatric simple linctus
++Dextromethorphan
++Pholcodine
+-Which of the following statements is FALSE. Methamphetamine...
+_is not addictive
++Can have a seriously negative impact on the user's health
++Can be manufactured from OTC decongestants
+-Which of the following statements concerning beclometasone nasal spray is TRUE?
+_It contains a corticosteroid
++It can be sold OTC for use in children under 18 years of age
++It works by blocking the action of histamine
+-A nasal spray contains oxymetazoline. Which of the following statements about this product is TRUE?
++It needs to be used regularly to prevent attacks of sneezing and a runny nose
+_It contains a decongestant
++It is the only product to treat allergic rhinitis
+=Chapter 5
+-Which of the answers below best completes the sentence? Indigestion can be caused by...
++not enough stomach acid being produced
+_too much stomach acid being produced
++being underweight
+-Which of the following sentences best describes constipation? Constipation...
+_is a less frequent bowel habit than is normal for that individual
++is being unable to go to the toilet every day
++affects most people and frequently alternates with diarrhoea
+-Which of the sentences below is TRUE? Taking stimulant laxatives long term...
++is a good way to lose weight
+_can prevent normal bowel movement motions occuring
++is the best treatment for Irritable Bowel Syndrome
+-Which of the following statements is TRUE regarding lidocaine as a drug treatment for haemorrhoids?
+_It numbs the area
++It reduces inflammation
++It prevents the area becoming infected
+-Which of the following is an osmotic laxative?
++Ispaghula husk
++Macrogols
+_Docusate sodium
+-Which of the following is an antacid that can be used to treat indigestion?
++Dimeticone
+_Aluminium hydroxide
++Ranitidine
+-Which of the following statements regarding irritable bowel syndrome (IBS) is TRUE?
++Lactulose is the preferred laxative for treating constipation associated with IBS
++Leaving long gaps between meals should be advised and can improve symptoms of IBS
+_Peppermint oil can relieve painful spasms associated with IBS
+-Customers prone to indigestion can be advised to reduce their symptoms by which of the following ways?
++Raising the foot of the bed
+_Stopping smoking
++Losing weight if pregnant
+-Which of the following is TRUE about PPIs when sold OTC?
+_They should not be taken for longer than two weeks
++They are suitable for children aged six years and over
++They ease haemorrhoids
+-Which of the following is likely to be a cause of constipation?
++Having a relative that suffers from constipation
+_Lack of fibre in the diet
++Doing regular exercise
+=Chapter 6
+-Mrs Rose wants some advice for preventing cystitis. Which of the following would be correct advice to give her?
++Wiping from back to front after going to the toilet
++Using soap and talcum powder in and around the vagina to keep the area clean and dry
+_Urinating after sexual intercourse
+-Which of the following statements regarding condoms is TRUE?
+_Using condoms can prevent against the spread of sexually transmitted diseases
++Male condoms are the only method of contraceptive available
++Condoms do not have any expiry date
+-Each one of the following customers wishes to buy a treatment for thrush. Which one would you refer to the pharmacist?
++A woman who has itching around her vagina
+_A woman who has already had thrush twice in the last two months
++A woman who has just finished a course of antibiotics
+-Which of the following statements about home pregnancy tests is TRUE?
++They all include two tests
+_They all test for the presence of the hormone HCG
++They all calculate the best time to have intercourse in order to become pregnant
+-Choose one of the following that best completes the statement. Period pain is...
++most common after the menopause
++usually associated with abnormal bleeding
+_best treated with an NSAID
+-Treadworm infections are best treated by which of the following:
++Malathion
++Laxatives
+_Mebendazole and good hygiene measures
+-Which of the following best completes the sentence: Cystitis is rare in men because...
++although men can catch the condition they do not get the symptoms
+_they have a longer urethra
++they generally drink more water than women do
+-Which of the following milks is suitable for babies from birth?
++Cow's milk
+_Breast milk
++Follow-on milk
+-Which of the following statements below concerning head lice is TRUE?
++Head lice fly from one head to another
++All insecticide treatments remove eggs and lice
+_Head lice treatments should only be used when lice are present
+-Which of the following products available for head lice treatment is chemical insecticide present in?
++Malathion
++Mebendazole
+_Dimeticone
+=Chapter 7
+-A man's head has silvery scales on his scalp, some of which are flaking off and falling onto his collar. What is this likely caused by?
++Psoriasis
+_Dandruff
++Head lice
+-The most suitable advice for this man is to...
++refer him to a good hairdresser
+_suggest he uses a shampoo containing coal tar
++sell him a product containing ketoconazole
+-Which of the following causes corns?
++A virus infection
++Joint deformity
+_Pressure from ill-fitting shoes
+-Hydrocortisone 1percent is NOT appropriate for sale OTC in which situation?
++For an itchy patch on the leg of a 40 year old man, not taking any other medicines
++For mild dermatitis caused by a nickel ring on the finger of an 18 year old woman not taking any other medicines
+_Nappy rash on the bottom of a six month old baby
+-A customer requests something to prevent chilblains. The best recommendation is to...
+_wear warm clothing such as gloves, scarf, hat, warm socks and shoes to ensure skin does not get too cold
++massage an emollient cream into the skin before going out
++take a course of multi-vitamin tablets
+-Which of the following is the most likely cause of acne?
+_The overproduction of sebum in conjunction with a bacterial attack
++The lack of natural skin oil that comes with puberty
++Greasy foods and poor hygeine
+-Which of the following statements regarding imidazole antifungal treatments is TRUE?
++Treatment should be stopped as soon as the rash disappears
++People with diabetes should only be recommended the spray formulation
+_Treatment should be used after washing the feet for atleast two weeks after the problem has cleared
+-A woman in her 20s has a red, itchy rash on her upper body, arms and face. There has been no change in her normal habits. What is the best action?
+_Sell her some chlorphenamine tablets (anithistamine) for the rash and suggest she comes back in a week's time if there are no improvements.
++Sell her some hydrocrtisone 1percent cream to use on her upper body and arms, but suggest she only uses water on her face
++Find out when and where the problem started on her body and refer to the pharmacist
+-Choose the ONE best answer: People who have diabetes should not use OTC foot treatments because...
++they have stiff joints which makes applying products difficult
+_they often have a loss of sensation in the feet and can damage them without realising it
++foot treatments often have added sugar in them
+-Minoxidil 5percent preparations can be used for the treatment of hair loss in...
+_Men and women
++Women only
++Men only
+=Chapter 8
+-Which of the following statements is TRUE? Plaque...
++is completely removed by saliva
+_can cause gum disease
++is a hardened form of tartar
+-A woman in her 30s has got a small red lump on her upper eyelid, which feels tender and hot. The most likely cause is...
+_a stye
++blepharitis
++a foreign body in the eye
+-Which of the following is TRUE? A good brushing technique...
++should make the gums bleed
+_can help to prevent the build up of plaque
++is not needed if a mouthwash is used
+-Which is an eye ointment containing chloramphenicol suitable for?
++Watery eyes
++Styes
+_Bacterial conjunctivitis
+-Which is TRUE? Cold sores...
++are caused by the herpes simplex bacteria
+_can be triggered by sunlight
++are best treated at the crusting stage
+-Which statement regarding sodium cromoglicate eyedrops is TRUE?
++It is an antibacterial agent used for conjunctivitis
+_It can be used for preventing symtpoms of hay fever
++It is a tear substitute and can be used in dry eye syndrome
+-Which is TRUE? Aciclovir cream...
++can be used for all herpes simplex infections
+_should be used five times a day for five days
++must never be used after the tingly stage has passed
+-Ear wax can...
++only be removed by syringing
+_be softened by using almond oil drops
++be dissolved using OTC products and then removed with a cotton bud
+-All mouthwashes...
++can stain the teeth
+_should not be swallowed
++must never be diluted
+-A man's GP has advised him to buy an OTC product to soften his ear wax. What is the best piece of information to give him?
++Normally using ear drops is quite painful and he should not be worried if it hurts
++He can save time by putting the drops into both ears at once
+_He should warm the drops to body temperature by holding the bottle in his hands before he puts them in
+=Chapter 9
+-Which statement regarding film dressings is TRUE?
++They have to be changed very frequently
++They do not allow the wound to breathe
+_They can be used to prevent pressure sores
+-A man has come into the pharmacy after having just burnt his arm, although the burn is small, it is sore. He should...
++Apply ice to the burn for at least 10 minutes and then use an antiseptic cream
++Place cling film over the burn and use butter to cool the area down
+_Place the arm under cool running water for at least 20 minutes then cover with a dry non-stick dressing
+-Which best describes how you can reduce skin damage by the sun?
++Applying a high SPF sunscreen first thing in the morning and last thing at night
+_Applying a high SPF sunscreen regularly throughout the day
++Using a sunscreen with SPF 5
+-Which of the following antimalarials CAN be purchased over the counter?
++Doxycycline
+_Proguanil
++Mefloquine
+-A man will be travelling on a short ferry ride and wants something to stop him from getting sea-sick. He should...
++Eat a heavy meal before the journey
+_Concentrate on the horizon if possible
++Read a book to distract himself from the sickness
+-A family is travelling to Thailand and ar concerned about developing travellers' diarrhoea. They should take with them...
++Kaolin and morphine mixture for the adults
+_Oral rehydration solutions for the whole family
++Bismuth subsalicylate for the whole family
+-Excessive alcohol intake can lead to which of the following?
++Strong bones
++Excess production of vitamin A
+_Irreversible liver damage
+-Folic acid suppplements of 400mcg are recommended...
++for women tring for a baby and up to 12 weeks after birth
++from the first day of a missed period until birth
+_for women trying for a baby and up to 12 weeks of pregnancy
+-Vitamins are...
++minerals that stop us from becoming ill
++chemicals that cannot be made by our bodies
+_needed in small amounts for normal growth and development
+-A man has been having trouble getting to sleep the past few days. Which action would you recommend?
+_Establish good sleeping hygeine patterns before trying any of the over the counter preparations
++Eating a heavy meal just before bed time
++Using an over the counter preparation such as promethazine for a month until a normal sleeping pattern is established
+=Chapter 10
+-Which of the following regarding roundworms is TRUE? Roundworms...
++Do not lay eggs for infection to occur
+_As adults are found in the small intestine of a cat or a dog
++Are treated by prescription-only medicines
+-Fleas...
++only live on animals so there is no reason to treat the environment
++never bite humans
+_can commonly be identified by scratching
+-Who is able to supply authorised veterinary medicines on the general sales list?
++Anyone behind the medicines counter as there are no legal restrictions
+_Only a registered qualified person such as a pharmacist
++Only a suitable qualified person
+-Teeth in cats and dogs...
++never suffer from the same problems as human teeth so do not need to be cleaned
+_should be cleaned either by the vet or by the use of specific pet toothpastes
++can be cleaned with human toothpaste without any side effects
+-Which is TRUE?
+_You can buy products over the counter to treat fleas
++Flea treatments are suitable for pregnant and young animals
++Whilst an animal is being treated for fleas, it is perfectly fine to sleep on the same bed as them
+-If you suspect a dog has conjunctivitis...
++You can sell chloramphenicol eye drops over the counter
+_You must refer the dog to the vet to confirm diagnosis
++You must treat the owner as well as the dog
+-Which is TRUE?
++Pharmacists can supply human medicines over the counter for an animal to treat a medical condition
+_The vet is required to write a prescription for human medicines under the Cascade to treat a medical condition in an animal
++All pharmacists can write prescriptions to treat medical conditions in an animal
+-Veterinary medicines are divided into...
++GSL, P and POM-V
++GSL, P and POM
+_AVM-GSL, NFA-VPS, POM-VPS and POM-V
+-Skin problems in cats and dogs...
+_are commonly due to allergies
++are usually caused by diarrhoea
++are due to anaemia
+-Which statement regarding worm infections is TRUE?
++All deworming prodcuts are suitable for all animals
+_Deworming products are available in many formulations
++You can supply a deworming medicine licensed for humans to treat a worm infection in an animal
